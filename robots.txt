@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minuwu.is-a.dev/TSync/sitemap.xml
